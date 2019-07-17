@@ -1,0 +1,5 @@
+a) vim
+b) :x or :wq
+C) i) paste a section of text :p
+   ii) copy a line of text :yy
+   iii) enter esc go into viusal Mode, and then enter "/word" 

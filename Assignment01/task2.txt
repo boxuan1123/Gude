@@ -1,0 +1,6 @@
+a) ~ directory
+b) /bin/bash 
+c) ls -a   #List all files including hidden file starting with'.'
+   ls -lh  #With combination of -lh option, shows sizes in human readable format
+d) using command "wc -l /proc/cpuinfo" --1040 lines
+e) using command "module avail gcc" --gcc/9.1.0

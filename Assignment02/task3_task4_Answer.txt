@@ -1,0 +1,12 @@
+Task3:
+outputlines are:
+5
+5
+6
+A Function: x=x+1=5
+B Function: B(&x),&x is a adress, y = (int *)10 will only change the adress but will not change x.
+C Function: change the content of the pointer to 6
+
+Task4:
+#include <studio.h> the preprocessor searches in an implementation dependent manner, normally in search directories pre-designated by compiler/IDE. This method is normally used to include standard library header files.
+#include "output.h" the preprocessor searches first in the same directory as the file containing the directive, and the follows the search path used for the #include <...> form. This method is normally used to include prommer-defined header files.
